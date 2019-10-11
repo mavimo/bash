@@ -10,5 +10,6 @@ alias lsimg="docker image ls -a"
 
 export PATH=$PATH:$HOME/.local/bin:$HOME/bin
 
+
 #scl enable rh-python36 bash
 #scl enable rh-nodejs10 bash
